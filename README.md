@@ -2,7 +2,7 @@
 
 **Asignatura:** Lógica de Programación
 **Profesor:** Gamalier Reyes del Carmen
-**Estudiante:** _(tu nombre y matrícula)_
+**Estudiante:** Camilo Salas Jimenez 2025-2431
 
 ## Resumen
 
